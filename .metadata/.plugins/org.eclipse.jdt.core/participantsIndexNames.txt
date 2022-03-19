@@ -7,3 +7,5 @@ C:\Users\Siddeswari Reddy\Desktop\Phase-2 Practice Projects\.metadata\.plugins\o
 \AddingNewProduct\src\main\java
 C:\Users\Siddeswari Reddy\Desktop\Phase-2 Practice Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3579415738.index
 \ProductDetails\src\main\java
+C:\Users\Siddeswari Reddy\Desktop\Phase-2 Practice Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\830232000.index
+\ProductDetailsPortal\src\main\java

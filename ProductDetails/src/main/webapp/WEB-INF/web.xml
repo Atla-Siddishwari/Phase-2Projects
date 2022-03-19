@@ -17,5 +17,14 @@
     <servlet-name>ProductDetails</servlet-name>
     <url-pattern>/index</url-pattern>
   </servlet-mapping>
-  
+  <servlet>
+    <description></description>
+    <display-name>productdetail</display-name>
+    <servlet-name>productdetail</servlet-name>
+    <servlet-class>com.productdetail</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>productdetail</servlet-name>
+    <url-pattern>/productdetail</url-pattern>
+  </servlet-mapping>
 </web-app>
